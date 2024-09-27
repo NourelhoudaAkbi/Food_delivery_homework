@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="fr">Francais   •</string>
+    <string name="chinese">中文（中国）• </string>
+    <string name="more">  More...</string>
+    <string name="emailHint">Phone or email</string>
+    <string name="pwHint">Password</string>
+    <string name="logintxt">Log In</string>
+    <string name="pwForgottxt">Forgot Password?</string>
+    <string name="newAcc">Create New Facebook Account</string>
+    <string name="heading">Explore our \nDelicious Offers</string>
+</resources>
