@@ -4,7 +4,7 @@ This project was created during the BrainerX Mobile Bootcamp, featuring food del
 
 ## Screens
 <p align="center">
-  <img src="app/foodDeliv1.png" alt="Sign In" width="250"/>
-  <img src="foodDeliv4.png" alt="Home" width="250"/>
-  <img src="app/foodDeliv3.png" alt="Product Details" width="250"/>
+  <img src="app/foodDeliv1.png" alt="Sign In" width="200"/>
+  <img src="foodDeliv4.png" alt="Home" width="200"/>
+  <img src="app/foodDeliv3.png" alt="Product Details" width="200"/>
 </p>
